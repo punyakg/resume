@@ -76,7 +76,7 @@ const Resume = () => {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-xl md:text-2xl font-light mb-4"
         >
-          Senior DevOps Engineer
+          DevOps Engineer
         </motion.h2>
         <motion.button
           whileHover={{ scale: 1.05 }}
@@ -95,10 +95,10 @@ const Resume = () => {
               transition={{ duration: 0.3 }}
               className="flex flex-wrap mt-4 space-y-2"
             >
-              <div className="flex items-center mr-4"><User size={18} className="mr-2" /> 7892118919</div>
-              <div className="flex items-center mr-4"><Mail size={18} className="mr-2" /> Punyashreergowda123@gmail.com</div>
+              <div className="flex items-center mr-4"><User size={18} className="mr-2" />(+91)-8095575237</div>
+              <div className="flex items-center mr-4"><Mail size={18} className="mr-2" /> punyashreergowda129@gmail.com</div>
               <div className="flex items-center mr-4"><Linkedin size={18} className="mr-2" /> linkedin.com/in/punya-gowda-1548501b7</div>
-              <div className="flex items-center mr-4"><Github size={18} className="mr-2" /> github.com/punyashree-devops</div>
+              <div className="flex items-center mr-4"><Github size={18} className="mr-2" /> github.com/punyakg</div>
             </motion.div>
           )}
         </AnimatePresence>
@@ -107,7 +107,7 @@ const Resume = () => {
       <main className="bg-white p-6 md:p-8 rounded-lg shadow-lg space-y-8">
         <Section title="Professional Summary" icon={<CheckCircle className="mr-2 text-blue-600" />}>
           <p className="text-lg leading-relaxed text-gray-700">
-            Dynamic and results-driven DevOps Engineer with 3+ years of hands-on experience in supporting, automating, and optimizing mission-critical deployments across large-scale infrastructures. Proven expertise in leveraging configuration management, CI/CD, and DevOps processes to drive operational efficiency and innovation. Demonstrated ability to bridge the gap between development and operations, fostering a culture of continuous improvement and collaboration.
+            Dynamic and results-driven DevOps Engineer with 2+ years of hands-on experience in supporting, automating, and optimizing mission-critical deployments across large-scale infrastructures. Proven expertise in leveraging configuration management, CI/CD, and DevOps processes to drive operational efficiency and innovation. Demonstrated ability to bridge the gap between development and operations, fostering a culture of continuous improvement and collaboration.
           </p>
         </Section>
 
